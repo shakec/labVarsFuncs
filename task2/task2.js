@@ -1,3 +1,4 @@
+const prompt = require("prompt-sync")()
 // MATH OPERATIONS w/ MULTI-PARAMS
 
 // Step 1. Write a function called calculateTotalCost that takes three parameters: price, quantity, and taxRate.
